@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Gen-Future/knoa-Parse",
+  "path": "contracts/v0.1.0-draft.1",
+  "version": "0.1.0-draft.1",
+  "status": "unreleased-draft",
+  "source_commit": null,
+  "files": {
+    "README.md": "d08713aa73fdaaca58f91175911db5c2737550604d47cd0aafbf8f05539324ca",
+    "examples/failed.json": "1e2288582c346e70ea7c27e64913aa1bc86ea77263e3d4d8f5e0a62b32813a86",
+    "examples/source.txt": "7354678339fb7323cad4d730bf56355e2718d7680397ef06d5376a550d54f164",
+    "examples/success.json": "09aac1432535b0cc6f43cefbe8d57a283fc51d5e1ebbe358fc3378f16e9b8b28",
+    "parse-result.schema.json": "b1429e6262e79d26378e5dcfb4c51fafbfe87cfa9810a2ab72b20506c75ac83c"
+  }
+}
